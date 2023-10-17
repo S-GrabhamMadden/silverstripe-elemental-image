@@ -1,6 +1,6 @@
 # Silverstripe Elemental Image
 
-A block to add a single image to your page.
+A block to add a single image to your page. Modified to remove dependence on jonom/focuspoint.
 
 [![CI](https://github.com/dynamic/silverstripe-elemental-image/actions/workflows/ci.yml/badge.svg)](https://github.com/dynamic/silverstripe-elemental-image/actions/workflows/ci.yml)
 [![codecov](https://codecov.io/gh/dynamic/silverstripe-elemental-image/branch/master/graph/badge.svg)](https://codecov.io/gh/dynamic/silverstripe-elemental-image)
@@ -13,7 +13,6 @@ A block to add a single image to your page.
 ## Requirements
 
 * dnadesign/silverstripe-elemental: ^5
-* jonom/focuspoint: ^5
 
 ## Installation
 
